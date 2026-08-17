@@ -1,0 +1,48 @@
+{
+  "name": "Green Square II",
+  "description": "Green Square II — two-stage SeaDrop on Robinhood Chain.",
+  "stages": [
+    {
+      "uuid": "03074e3a99114c5494abdd3aeedde0f4",
+      "name": "Public",
+      "description": "",
+      "isPublic": true,
+      "maxTotalMintableByWallet": 1,
+      "maxTokenSupplyForStage": 50,
+      "startTime": 1786938358,
+      "endTime": 1789530358,
+      "restrictFeeRecipients": true,
+      "feeBps": 100,
+      "mintPrice": 15900000000000,
+      "paymentToken": null,
+      "startPrice": null,
+      "endPrice": null,
+      "fromTokenId": null,
+      "toTokenId": null,
+      "maxTotalMintableByWalletPerToken": null,
+      "dropStageIndex": null
+    },
+    {
+      "uuid": "71b8e5ed6b5047ebaf7f83667fd28da6",
+      "name": "OG",
+      "description": "",
+      "isPublic": false,
+      "maxTotalMintableByWallet": 1,
+      "maxTokenSupplyForStage": 50,
+      "startTime": 1786934758,
+      "endTime": 1786938358,
+      "restrictFeeRecipients": true,
+      "feeBps": 100,
+      "mintPrice": 0,
+      "paymentToken": null,
+      "startPrice": null,
+      "endPrice": null,
+      "fromTokenId": null,
+      "toTokenId": null,
+      "maxTotalMintableByWalletPerToken": null,
+      "dropStageIndex": 1,
+      "allowListURI": "data:application/json;base64,WwogIHsKICAgICJhZGRyZXNzIjogIjB4ZkM5ODIzODA2NjExMzQ3NDExRjcwOEQ1ODY5YTI4MWY1Y2ZBMkNmZSIsCiAgICAibWludFByaWNlIjogMCwKICAgICJtYXhUb3RhbE1pbnRhYmxlQnlXYWxsZXQiOiAxLAogICAgInN0YXJ0VGltZSI6IDE3ODY5MzQ3NTgsCiAgICAiZW5kVGltZSI6IDE3ODY5MzgzNTgsCiAgICAiZHJvcFN0YWdlSW5kZXgiOiAxLAogICAgIm1heFRva2VuU3VwcGx5Rm9yU3RhZ2UiOiA1MCwKICAgICJmZWVCcHMiOiAxMDAsCiAgICAicmVzdHJpY3RGZWVSZWNpcGllbnRzIjogdHJ1ZQogIH0KXQ=="
+    }
+  ],
+  "erc1155TokenMintDetails": null
+}
