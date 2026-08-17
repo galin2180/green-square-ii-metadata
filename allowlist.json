@@ -1,0 +1,13 @@
+[
+  {
+    "address": "0xfC9823806611347411F708D5869a281f5cfA2Cfe",
+    "mintPrice": 0,
+    "maxTotalMintableByWallet": 1,
+    "startTime": 1786934758,
+    "endTime": 1786938358,
+    "dropStageIndex": 1,
+    "maxTokenSupplyForStage": 50,
+    "feeBps": 100,
+    "restrictFeeRecipients": true
+  }
+]
